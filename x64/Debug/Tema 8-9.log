@@ -1,0 +1,28 @@
+﻿  Reading Qt configuration (C:/Qt/6.7.0/msvc2019_64/bin/qmake)
+  EventListModel.cpp
+  GUI.cpp
+  UI.cpp
+  UndoRedo.cpp
+  UserMode.cpp
+  Validators.cpp
+  AdministratorMode.cpp
+  CSVEventList.cpp
+  Event.cpp
+C:\Users\User\Desktop\UBB shit\Arhive\Anul 1\Sem 2\Programare Orientata Obiect\Teme\Tema5\Tema 8-9\Tema 8-9\UI.cpp(125,6): warning C4101: 'numberOfPeople': unreferenced local variable
+C:\Users\User\Desktop\UBB shit\Arhive\Anul 1\Sem 2\Programare Orientata Obiect\Teme\Tema5\Tema 8-9\Tema 8-9\UI.cpp(124,7): warning C4101: 'time': unreferenced local variable
+C:\Users\User\Desktop\UBB shit\Arhive\Anul 1\Sem 2\Programare Orientata Obiect\Teme\Tema5\Tema 8-9\Tema 8-9\UI.cpp(123,7): warning C4101: 'date': unreferenced local variable
+  EventList.cpp
+  Exception.cpp
+  FileEventList.cpp
+  HTMLEventList.cpp
+  Repository.cpp
+  StringTokenizer.cpp
+  Tema89.cpp
+  main.cpp
+C:\Users\User\Desktop\UBB shit\Arhive\Anul 1\Sem 2\Programare Orientata Obiect\Teme\Tema5\Tema 8-9\Tema 8-9\EventListModel.cpp(16,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\Desktop\UBB shit\Arhive\Anul 1\Sem 2\Programare Orientata Obiect\Teme\Tema5\Tema 8-9\Tema 8-9\Repository.cpp(69,22): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  qrc_Tema89.cpp
+  moc_Tema89.cpp
+  moc_EventListModel.cpp
+  moc_GUI.cpp
+  Tema 8-9.vcxproj -> C:\Users\User\Desktop\UBB shit\Arhive\Anul 1\Sem 2\Programare Orientata Obiect\Teme\Tema5\Tema 8-9\x64\Debug\Tema 8-9.exe

@@ -1,0 +1,8 @@
+Reel Watching,Watching reels on youtube,9:8,1:33,5140,https://www.youtube.com/
+Instagram scrolling,Scrolling through instagram,1:1,22:0,3171,https://www.instagram.com/
+Facebook scrolling,Scrolling through facebook,26:7,7:48,1251,https://www.facebook.com/
+Twitter scrolling,Scrolling through twitter,13:5,18:13,2377,https://www.twitter.com/
+TikTok scrolling,Scrolling through tiktok,21:2,10:0,3495,https://www.tiktok.com/
+Reddit scrolling,Scrolling through reddit,8:9,10:18,4581,https://www.reddit.com/
+LinkedIn scrolling,Scrolling through linkedin,1:11,16:58,5689,https://www.linkedin.com/
+Snapchat scrolling,Scrolling through snapchat,26:1,9:16,6834,https://www.snapchat.com/
